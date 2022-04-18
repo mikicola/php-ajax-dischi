@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    background-color: #1e2d3b;
+}
+
+header{
+    background-color: #2e3a46;
+    /* height: 70px; */
+}
+
+header img{
+    width: 60px;
+    margin: 1rem;
+}
+
+.container{
+    max-width: 1080px;
+    margin: 0 auto;
+}
